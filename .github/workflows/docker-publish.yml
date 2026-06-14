@@ -1,7 +1,5 @@
 name: Docker Publish
 
-name: Docker Publish
-
 on:
   push:
     branches:
